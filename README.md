@@ -4,4 +4,9 @@ It is a platform for building program to work with human language data. Vision b
 
 
 # Working Pipeline of NLP:
+
+
+Here is the Procedure how the NLP actually works!
+
+
 ![image](https://drive.google.com/uc?export=view&id=1wvU0rsuMDIc1qsM5yZr3UqL4E0S_S28a)
